@@ -1,5 +1,12 @@
 **Primer evaluación entregable de Front-end III para C.T.D.**
 
+GARINO GEORGIANA - ENTRAR EN  
+
+https://frontend3.vercel.app/
+
+
+CONSIGNAS
+
  - Pueden ver el deploy de la aplicación en:
    https://nostalgic-wilson-b2a04e.netlify.app/ 
  - Para descargar React    developer tools:   
